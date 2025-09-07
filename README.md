@@ -115,6 +115,4 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/screenshots/performance.png" width="600px" />
 
-## Credits
 
-licensed under [MIT](https://github.com/maciekt07/TodoApp/blob/main/LICENSE).
