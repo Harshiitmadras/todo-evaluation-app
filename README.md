@@ -44,6 +44,34 @@
 
 ## ⚡ Features
 
+📋 Assignment Requirements
+
+✅ Date Filters – filter tasks by due date.
+
+✅ Task Priority Management – High/Medium/Low tasks with visual badges.
+
+✅ State Management – handled via React Context API for clean UI/business logic separation.
+
+✅ Modular Components – TaskCard, FilterBar, PriorityBadge, etc.
+
+✅ Responsive & Accessible UI – semantic HTML, consistent styling, mobile-ready.
+
+✅ Code Quality – ESLint + Prettier rules, inline documentation, reusable components.
+
+🌟 Additional Enhancements
+
+Progressive Web App (PWA) support with offline access.
+
+Light/Dark theme toggle with Material-UI.
+
+QR code sharing of task lists.
+
+WebRTC sync for multi-device task sharing.
+
+Local storage persistence of tasks.
+
+Optimized build using Vite + TypeScript.
+
 ### 🔗 Share Tasks by Link or QR Code
 
 Easily share your tasks with others using a link or QR code.
